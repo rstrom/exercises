@@ -20,8 +20,8 @@ The rainfall data is stored in `mt_tabor.rain.js` as the `rainfall` variable. `r
 In `analyze.js` complete the following using map, filter and reduce:
 * compute and console.log daily totals of rainfall
 * compute and console.log cumulative rainfall in 2016 so far
-* compute and console.log cumulative rainfall for each year
-* compute and console.log total rainfall in April of each year
+* challenge: compute and console.log cumulative rainfall for each year
+* compute and console.log total rainfall in Nov of 1998 and 2008
 * challenge: compute and console.log average rainfall for each month, i.e. average Jan, .. Dec from each year with complete data
 * challenge: compute and console.log the month with the most rainfall
 
